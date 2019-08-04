@@ -1,4 +1,4 @@
 /.vscode
 /output
-/.ropeproject
+# /.ropeproject
 /TestPyQT.code-workspace
